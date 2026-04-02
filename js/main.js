@@ -44,9 +44,9 @@ const menuItems = [
   {
     name: 'Pulpo Enchilado',
     description: 'Pulpo fresco con salsa enchilada picante, especialidad de la casa.',
-    price: '--- CUP',
+    price: '840 CUP',
     tag: 'Mar',
-    image: 'https://images.unsplash.com/photo-1578662996442-48f60103fc96?auto=format&fit=crop&w=800&q=80',
+    image: 'Pulpo Enchilado, 840 CUP.jpg',
   },
 ];
 
